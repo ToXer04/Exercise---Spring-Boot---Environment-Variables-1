@@ -1,0 +1,5 @@
+server:
+  port: 4500
+varTree:
+  authCode: "xyz458"
+  devName: "Simone"
